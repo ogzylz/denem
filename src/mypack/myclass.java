@@ -8,9 +8,13 @@ public class myclass {
 		System.out.println("branching added");
 		for(int g= 0 ; g<4;g++){
 
+
 	//		System.out.println("");
 
 	//		int t = 3;
+
+
+			int t = 3;
 
 			g++; g++;
 			int d = 0;
