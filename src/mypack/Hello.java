@@ -8,7 +8,5 @@ public class Hello {
 		System.out.println("only in branch2");
 		System.out.println("withbranch");
 		System.out.println("mybr");
-
-		System.out.println("mybr");
 	}
 }
