@@ -8,6 +8,8 @@ public class myclass {
 		System.out.println("branching added");
 		for(int g= 0 ; g<4;g++){
 			g++;
+			int d = 0;
+			g+=d;
 		}
 			
 	}

@@ -9,9 +9,7 @@ public class Hello {
 		System.out.println("withbranch");
 		System.out.println("mybr");
 		System.out.println("mybr2");
-		
-		
-		
+		System.out.println("mybr");
 		System.out.println("mybr4");
 
 	}
