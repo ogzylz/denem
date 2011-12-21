@@ -10,6 +10,7 @@ public class myclass {
 			g++; 
 			int d = 0;
 			g+=d;
+			System.out.println("");
 		}
 			
 	}

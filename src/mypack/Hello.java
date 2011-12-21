@@ -11,9 +11,13 @@ public class Hello {
 		System.out.println("mybr2");
 		System.out.println("mybr");
 		System.out.println("mybr4");
+		System.out.println("only in branch2");
+		System.out.println("withbranch");
 
 		
 		System.out.println("mybr8");
+		System.out.println("mybr");
+		System.out.println("mybr4");
 
 	}
 }
