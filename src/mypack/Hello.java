@@ -9,7 +9,14 @@ public class Hello {
 		System.out.println("withbranch");
 		System.out.println("mybr");
 		System.out.println("mybr2");
+
 		System.out.println("mybr");
+
+		System.out.println("son Manual icin");
+
+		
+		
+
 		System.out.println("mybr4");
 		System.out.println("only in branch2");
 		System.out.println("withbranch");
@@ -19,5 +26,6 @@ public class Hello {
 		System.out.println("mybr");
 		System.out.println("mybr4");
 
+		
 	}
 }

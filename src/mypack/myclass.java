@@ -7,10 +7,13 @@ public class myclass {
 	public static void main(String[] args){
 		System.out.println("branching added");
 		for(int g= 0 ; g<4;g++){
-			g++; 
+			g++; g++;
 			int d = 0;
 			g+=d;
 			System.out.println("");
+			System.out.println("Son artik yahuu");
+			g++;
+			System.out.println("Son artik yahuu");
 		}
 			
 	}
